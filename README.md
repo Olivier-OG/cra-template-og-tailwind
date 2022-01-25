@@ -1,5 +1,7 @@
 # OG-Tailwind
 
+![NPM](https://img.shields.io/npm/l/cra-template-og-tailwind)
+
 Start your `create-react-app` projects with [Tailwind CSS](https://tailwindcss.com/)
 
 **📂 Browse in VS Code:** [Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)
@@ -20,6 +22,10 @@ yarn create react-app --template og-tailwind my-app
 #or
 
 npx create-react-app my-app --template og-tailwind
+
+#or
+
+npm init react-app my-app --template unicorn
 ```
 
 Access your project folder.
