@@ -1,10 +1,10 @@
 # OG-Tailwind
 
-![NPM](https://img.shields.io/npm/l/cra-template-og-tailwind)
+![npm](https://img.shields.io/npm/v/cra-template-og-tailwind?label=npm%20package) ![npm](https://img.shields.io/npm/dt/cra-template-og-tailwind) ![node-current](https://img.shields.io/node/v/cra-template-og-tailwind) ![NPM](https://img.shields.io/npm/l/cra-template-og-tailwind) 
 
 Start your `create-react-app` projects with [Tailwind CSS](https://tailwindcss.com/)
 
-**📂 Browse in VS Code:** [Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)
+**📂 Browse in VS Code:** [Open in Visual Studio Code](https://open.vscode.dev/Olivier-OG/cra-template-og-tailwind)
 
 **📦 Package on npm:** [npm](https://www.npmjs.com/package/cra-template-og-tailwind)
 
