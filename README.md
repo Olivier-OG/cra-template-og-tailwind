@@ -1,6 +1,6 @@
 # OG-Tailwind
 
-![npm](https://img.shields.io/npm/v/cra-template-og-tailwind?label=npm%20package) ![npm](https://img.shields.io/npm/dt/cra-template-og-tailwind) ![node-current](https://img.shields.io/node/v/cra-template-og-tailwind) ![NPM](https://img.shields.io/npm/l/cra-template-og-tailwind) 
+![npm](https://img.shields.io/npm/v/cra-template-og-tailwind?label=npm%20package) ![npm](https://img.shields.io/npm/dt/cra-template-og-tailwind) ![node-current](https://img.shields.io/node/v/cra-template-og-tailwind) ![npm](https://img.shields.io/npm/v/tailwindcss?label=Tailwindcss) ![NPM](https://img.shields.io/npm/l/cra-template-og-tailwind)
 
 Start your `create-react-app` projects with [Tailwind CSS](https://tailwindcss.com/)
 
