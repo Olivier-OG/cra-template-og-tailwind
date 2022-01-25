@@ -44,6 +44,26 @@ yarn start
 npm start
 ```
 ---
+## File structure
+
+```shell
+    📁 my-app
+    ├──📁 public
+    │   ├── favicon.ico
+    │   ├── index.html
+    │   ├── manifest.json
+    │   └── robots.txt
+    ├──📁 src
+    │   ├── App.js
+    │   ├── index.css
+    │   └── index.js
+    ├──📁 package.json
+    ├──📁 postcss.config.js
+    ├──📁 tailwind.config.js
+    └──📁 yarn.lock
+```
+
+---
 
 ## License
 
