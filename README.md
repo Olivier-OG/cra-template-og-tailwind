@@ -17,7 +17,7 @@ Start your `create-react-app` projects with [Tailwind CSS](https://tailwindcss.c
 Create React App with the template.
 
 ```shell
-yarn create react-app --template og-tailwind my-app
+yarn create react-app my-app --template og-tailwind
 
 #or
 
