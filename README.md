@@ -25,7 +25,7 @@ npx create-react-app my-app --template og-tailwind
 
 #or
 
-npm init react-app my-app --template unicorn
+npm init react-app my-app --template og-tailwind
 ```
 
 Access your project folder.
