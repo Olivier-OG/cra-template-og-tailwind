@@ -59,9 +59,14 @@ npm start
     │   └── index.js
     ├──📁 package.json
     ├──📁 postcss.config.js
-    ├──📁 tailwind.config.js
-    └──📁 yarn.lock
+    └──📁 tailwind.config.js
 ```
+
+---
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
 
 ---
 
